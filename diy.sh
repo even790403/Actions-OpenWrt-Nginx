@@ -21,6 +21,13 @@ git clone https://github.com/ElonH/Rclone-OpenWrt && mv -f Rclone-OpenWrt/* ./
 git clone https://github.com/jefferymvp/luci-app-koolproxyR
 git clone https://github.com/KryptonLee/qBittorrent-openwrt-package
 git clone https://github.com/garypang13/luci-app-qbittorrent
+git clone https://github.com/john-shine/luci-theme-darkmatter.git
+git clone https://github.com/Leo-Jo-My/luci-theme-argon-dark-mod.git
+git clone https://github.com/kuyokushin/luci-theme-darkpro.git
+git clone https://github.com/HDragon8/luci-theme-noodlesDark.git
+git clone https://github.com/Leo-Jo-My/luci-theme-Butterfly-dark.git
+git clone https://github.com/kevin-morgan/luci-theme-argon-dark.git
+git clone https://github.com/awesome-openwrt/luci-app-aliddns.git
 
 svn co https://github.com/kenzok8/openwrt-packages/trunk/luci-app-passwall
 svn co https://github.com/Lienol/openwrt-package/trunk/package/tcping
